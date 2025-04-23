@@ -1,0 +1,39 @@
+_repo: Williamthe-good_75780
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Henry, Thomas
+    alias: Fisher, Thomas Henry
+    birthdate: 1879
+    deathdate: 1962
+    gutenberg_agent_id: '37009'
+    url: http://www.gutenberg.org/2009/agents/37009
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Henry_(illustrator)
+creator:
+  author:
+    agent_name: Crompton, Richmal
+    alias: Lamburn, Richmal Crompton
+    birthdate: 1890
+    deathdate: 1969
+    gutenberg_agent_id: '7152'
+    url: http://www.gutenberg.org/2009/agents/7152
+    wikipedia: https://en.wikipedia.org/wiki/Richmal_Crompton
+description: ''
+gutenberg_issued: '2025-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75780'
+language: en
+pgterms:marc905: 20241114081532crompton
+pgterms:marc906: '1928'
+pgterms:marc907: GB
+production_note: deaurider, David E. Brown, Sue Clark, Joyce Wilson, and the Online
+  Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLondon :$bGeorge Newnes Limited, $c1928, reprint 1948.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: William—the good
+url: http://www.gutenberg.org/ebooks/75780
