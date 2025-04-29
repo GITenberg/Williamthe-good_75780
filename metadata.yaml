@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '37009'
     url: http://www.gutenberg.org/2009/agents/37009
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Henry_(illustrator)
+covers:
+- cover_type: archival
+  image_path: 75780-h/images/cover.jpg
 creator:
   author:
     agent_name: Crompton, Richmal
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7152
     wikipedia: https://en.wikipedia.org/wiki/Richmal_Crompton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75780#Williamthe-good
 gutenberg_issued: '2025-04-03'
 gutenberg_type: Text
 identifiers:
